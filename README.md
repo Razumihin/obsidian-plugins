@@ -1,8 +1,6 @@
 # Obsidian-plugins
 
-Small plugins for [Obsidian](https://obsidian.md) note taking tool. These plugins require using [Volcano](https://github.com/kognise/volcano) plugin for now as the official plugin interface is not finished. I'll rewrite the relevant pieces to the official one after it is released. 
-
-A small warning that I don't take any responsibility if these mess your notes in some silly way as they're not that thoroughly tested at this point. Especially the path fixer might be a bit hazardous.
+Small plugins for [Obsidian](https://obsidian.md) note taking tool. These plugins now support official obsidian alpha [plugin api](https://github.com/obsidianmd/obsidian-api).
 
 ## Fullscreen mode
 
