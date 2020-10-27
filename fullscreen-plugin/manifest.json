@@ -1,0 +1,8 @@
+{
+  "id": "obsidian-fullscreen-plugin",
+  "name": "Fullscreen Plugin",
+  "description": "This is a full screen focus mode plugin for Obsidian (https://obsidian.md)",
+  "isDesktopOnly": false,
+  "js": "main.js",
+  "css": "styles.css"
+}
