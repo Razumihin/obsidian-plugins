@@ -1,0 +1,8 @@
+{
+  "id": "fix-windows-links-plugin",
+  "name": "Windows path to link plugin",
+  "description": "Obsidian plugin to create file:/// links from standard windows paths",
+  "isDesktopOnly": false,
+  "js": "main.js",
+  "css": "styles.css"
+}
